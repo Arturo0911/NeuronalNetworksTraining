@@ -1,6 +1,9 @@
 import random
 
-
+"""
+Implementation of algorithm about the random asign 
+in the weights to get values
+"""
 
 
 def equation():

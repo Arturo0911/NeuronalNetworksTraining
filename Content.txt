@@ -1,0 +1,37 @@
+for a classification task, instead of wandom wights initilizations
+in a neuronal network, we set all the weights to zero. That's mean
+the neuronal network, will train but all the neurons will end up
+recognizing the same thing
+
+Explanation:
+    Random weight initilizations is important for all neurons to pick
+    up different features out of the problem at hand
+
+
+
+
+
+Learning rare that's too large and the Network will not converge
+because the error rate would become erratic if learning eate is
+very large.
+
+
+
+
+
+if i crease the number of hidden layers in a multi layer Perceptron, the
+classification error of test data always decreases. Overfitting may cause the error to increase.
+
+
+
+The difference between deep learning and machine learning algorithms is that
+there is no need of feature engineering in machine learning algorithms, whereas it is recommendede to do feature enginerring first and then apply deep
+learning. Because deel pearlning itself does featuture engineering whereas
+machine learning requires manual feature engineering.
+
+
+
+
+
+Backpropagation work by first calculatint the gradiend of "sume of squared
+errir with respect to outputs
