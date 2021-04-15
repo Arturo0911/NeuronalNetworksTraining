@@ -12,6 +12,7 @@ matplotlib = "*"
 seaborn = "*"
 tensorflow = "*"
 keras = "*"
+opencv-python = "*"
 
 [dev-packages]
 
